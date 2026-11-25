@@ -1,0 +1,6 @@
+{
+  "name": "Huis & Verhuis Planner",
+  "description": "Beheer elke stap, deadline, kostenpost en contactpersoon na de aankoop van je woning in Nederland.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
